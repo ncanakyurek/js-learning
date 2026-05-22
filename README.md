@@ -1,4 +1,4 @@
-# JavaScript Learning 🚀
+# Basic JavaScript Learning  
 
 This repository contains my JavaScript learning journey.
 
