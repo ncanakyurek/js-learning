@@ -10,9 +10,7 @@ const users = [
 "Jessica Taylor",
 "Chris Anderson",
 "Amy Martinez"
-
-
-];
+]; // create an array named users with 10 user names as string elements
 
 console.log(users); // print the users array to the console
 users.push("Tom Wilson"); // add a new user to the end of the array
