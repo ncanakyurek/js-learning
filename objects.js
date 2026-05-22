@@ -12,7 +12,7 @@ job: 'Software Engineer'
 
 
 console.log(users); // print the users object to the console
-users.birthday = '1990-01-01';  // news property add
+users.birthday = '1992-01-01';  // news property add
 console.log(users);
 users.job = 'Senior Software Engineer'; // update the value of the job property
 delete users.email; // delete the email property from the users object
