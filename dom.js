@@ -1,17 +1,11 @@
 const users = [
+  "John Doe",
+  "Jane Smith",
+  "Bob Johnson"
+];
 
-"John Doe",
-"Jane Smith",
-"Bob Johnson",
-"Emily Davis",
-"Michael Brown",
-"Sarah Wilson",
-"David Lee",
-"Jessica Taylor",
-"Chris Anderson",
-"Amy Martinez"
-]; // create an array named users with 10 user names as string elements
+const usersList = document.getElementById("users-list");
 
- document.getElementById("users-list"
-
- ).innerHTML = users.map(user => `<li>${user}</li>`).join(''); // display the users array as a list in the HTML element with id "users-list"
+usersList.innerHTML += `<li>${users[0]}</li>`;
+usersList.innerHTML += `<li>${users[1]}</li>`;
+usersList.innerHTML += `<li>${users[2]}</li>`; //array get list
