@@ -10,6 +10,8 @@ This repository contains my JavaScript learning journey.
 - map()
 - DOM Manipulation
 - innerHTML
+- Template Literals
+- Arrow Functions
 - Git & GitHub Basics
 
 ## Files
@@ -29,6 +31,8 @@ Basic DOM manipulation examples.
 - Updating and deleting properties
 - Rendering data into HTML
 - Using map() for looping
+- Using template literals with `${}`
+- Writing arrow functions
 - Basic Git workflow
 
 ## Git Commands Practiced
